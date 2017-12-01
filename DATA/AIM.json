@@ -1,0 +1,78 @@
+{
+    "children": [
+        {
+            "activity ": "NULL",
+            "bundleID": "NULL",
+            "package": "NULL",
+            "project": "\u7231\u8d37\u7f51\u7406\u8d22-PC",
+            "type": "PC"
+        },
+        {
+            "activity ": "NULL",
+            "bundleID": "NULL",
+            "package": "NULL",
+            "project": "\u7231\u8d37\u7f51-PC",
+            "type": "PC"
+        },
+        {
+            "activity ": "com.aidai.adw.activity.StartPageActivity",
+            "bundleID": "NULL",
+            "package": "com.rd.zdbao.adw",
+            "project": "\u7231\u8d37\u7f51\u7406\u8d22-Android",
+            "type": "Android"
+        },
+        {
+            "activity ": "com.rd.zdbao.adwjk.activity.SplashActivity",
+            "bundleID": "NULL",
+            "package": "cn.phaidai.loan",
+            "project": "\u7231\u8d37\u7f51-Android",
+            "type": "Android"
+        },
+        {
+            "activity ": "com.rd.zdbao.adwjk.activity.SplashActivity",
+            "bundleID": "NULL",
+            "package": "com.rd.zdbao.adwjk",
+            "project": "\u7231\u8d37\u501f\u6b3e-Android",
+            "type": "Android"
+        },
+        {
+            "activity ": "NULL",
+            "bundleID": "NULL",
+            "package": "NULL",
+            "project": "\u7231\u8d37\u7f51\u7406\u8d22-iOS",
+            "type": "iOS"
+        },
+        {
+            "activity ": "NULL",
+            "bundleID": "NULL",
+            "package": "NULL",
+            "project": "\u7231\u8d37\u7f51-iOS",
+            "type": "iOS"
+        },
+        {
+            "activity ": "NULL",
+            "bundleID": "NULL",
+            "package": "NULL",
+            "project": "\u7231\u8d37\u501f\u6b3e-iOS",
+            "type": "iOS"
+        }
+    ],
+    "cols": [
+        "project",
+        "type",
+        "package",
+        "activity ",
+        "bundleID"
+    ],
+    "project": [
+        "\u7231\u8d37\u7f51\u7406\u8d22-PC",
+        "\u7231\u8d37\u7f51-PC",
+        "\u7231\u8d37\u7f51\u7406\u8d22-Android",
+        "\u7231\u8d37\u7f51-Android",
+        "\u7231\u8d37\u501f\u6b3e-Android",
+        "\u7231\u8d37\u7f51\u7406\u8d22-iOS",
+        "\u7231\u8d37\u7f51-iOS",
+        "\u7231\u8d37\u501f\u6b3e-iOS"
+    ],
+    "title": "AIM"
+}

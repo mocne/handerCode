@@ -1,0 +1,3 @@
+2017-11-09 14:23:02,645 - ¡¾ WARNING ¡¿ - logTest.py [ line:9 ] : this is loggging a warning message
+2017-11-09 14:23:02,645 - ¡¾ ERROR ¡¿ - logTest.py [ line:10 ] : this is an loggging error message
+2017-11-09 14:23:02,645 - ¡¾ CRITICAL ¡¿ - logTest.py [ line:11 ] : this is a loggging critical message

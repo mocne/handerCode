@@ -1,0 +1,77 @@
+# 资源监控软件 App
+Emmagee:
+  AppName: Emmagee
+  PackageName: com.netease.qa.emmagee
+  LanchableActivity: com.netease.qa.emmagee.activity.MainPageActivity
+
+# 追书神器 App
+zhuishushenqi:
+  AppName: 追书神器
+  PackageName: com.ushaqi.zhuishushenqi
+  LanchableActivity: com.ushaqi.zhuishushenqi.ui.SplashActivity
+
+# 爱贷网理财 App
+aidaiwangLiCai:
+  AppName: 爱贷网理财
+  PackageName: com.rd.zdbao.adw
+  LanchableActivity: com.aidai.adw.activity.StartPageActivity
+
+# 爱贷网借款 App
+adiawangJieKuan:
+  AppName: 爱贷网借款
+  PackageName: com.rd.zdbao.adwjk
+  LanchableActivity: com.rd.zdbao.adwjk.activity.SplashActivity
+
+# 爱贷网 App
+adiawang:
+  AppName: 爱贷网
+  PackageName: cn.phaidai.loan
+  LanchableActivity: com.rd.zdbao.adwjk.activity.SplashActivity
+
+# 淘宝 App
+adiawang:
+  AppName: 淘宝
+  PackageName: com.taobao.taobao
+  LanchableActivity: com.taobao.tao.welcome.Welcome
+
+# 微信 App
+adiawang:
+  AppName: 微信
+  PackageName: com.tencent.mm
+  LanchableActivity: com.tencent.mm.ui.LauncherUI
+
+# QQ App
+adiawang:
+  AppName: QQ
+  PackageName: com.tencent.mobileqq
+  LanchableActivity: com.tencent.mobileqq.activity.SplashActivity com.UCMobile.main.UCMobile
+
+# UC浏览器 App
+adiawang:
+  AppName: UC浏览器
+  PackageName: com.UCMobile
+  LanchableActivity: com.UCMobile.main.UCMobile
+
+# 微博 App
+adiawang:
+  AppName: 微博
+  PackageName: com.sina.weibo
+  LanchableActivity: com.sina.weibo.SplashActivity
+
+# 去哪儿旅行 App
+adiawang:
+  AppName: 去哪儿旅行
+  PackageName: com.Qunar
+  LanchableActivity: com.mqunar.splash.SplashActivity
+
+# 滴滴出行 App
+adiawang:
+  AppName: 滴滴出行
+  PackageName: com.sdu.didi.psnger
+  LanchableActivity: com.didi.sdk.app.DidiLoadDexActivity
+
+# 一点资讯 App
+adiawang:
+  AppName: 一点资讯
+  PackageName: com.yidian.xiaomi
+  LanchableActivity: com.yidian.xiaomi.ui.guide.UserGuideActivity

@@ -1,0 +1,62 @@
+shouye:
+touzi:
+jiekuan:
+wode:
+    info:
+        username:
+            data:
+                text:
+                size:
+        totalMoney:
+            data:
+                text:
+                size:
+        earnToday:
+            data:
+                text:
+                size:
+        usefulMoney:
+            data:
+                text:
+                size:
+        backMoney:
+            data:
+                text:
+                size:
+        servicePhone:
+            data:
+                text:
+                size:
+        onlineService:
+            data:
+                text:
+                size:
+
+    denglu:
+        - username:
+            operate: input
+            content: 18244440002
+            data:
+                text: 18244440002
+                size:
+        - password:
+            operate: input
+            content: a1111111
+            data:
+                text: a1111111
+                size:
+        - showPS:
+            operate: click
+            content:
+            data:
+                text:
+                size:
+        - touch2login:
+            operate: click
+            content:
+            data:
+                text:
+                size:
+    zhuce:
+    chongzhi:
+    tixian:
